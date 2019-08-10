@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<contact
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="schema.xsd">
+    <name>Raj</name>
+    <company>Tiger Soft</company>
+    <phone>56789</phone>
+    <city>Blore</city>
+</contact>
